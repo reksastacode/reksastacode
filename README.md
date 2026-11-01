@@ -1,4 +1,4 @@
-# reksasta
+<h1 align="center">Hii! I'm reksasta : )</h1>
 Computer Hardware, IoT & Network<br>
 Yogyakarta State University<br>
 
