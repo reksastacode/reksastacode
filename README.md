@@ -1,11 +1,4 @@
 <h1 align="center">Hii! I'm reksasta : )</h1>
-Computer Hardware, IoT & Network<br>
-Yogyakarta State University<br>
-
-<p align="center">
-  I build AI agents and the tools around them, and I fix bugs in the open-source projects they run on.<br/>
-  <sub>San Jose · biggest Formula 1 fan · algorithmic trading · hackathons</sub>
-</p>
 
 <p align="center">
   I have interest in Computer Hardware, i built Iot & Network Projects, sometimes i contributing in some open source project .<br/>
