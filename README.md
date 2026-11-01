@@ -25,4 +25,6 @@
 
 </div>
 
+![snake gif](https://github.com/reksastacode/reksastacode/blob/output/github-snake-dark.svg)
+
 ---
