@@ -2,7 +2,7 @@
 
 <p align="center">
   I have interest in Computer Hardware, i built IoT & Network Projects, sometimes i contributing in some open source project .<br/>
-  <sub>Indonesia · Information Technology · Yogyakarta State University · hackathons</sub>
+  <sub>Indonesia · Information Technology · Yogyakarta State University · Hackathons</sub>
 </p>
 
 <div align="center"> 
