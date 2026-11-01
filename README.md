@@ -15,11 +15,10 @@
 <div align="center"> 
 
   <img src="https://streak-stats.demolab.com/?user=reksastacode&theme=ocean_dark&hide_border=true" width=55% /> <br>
+  <img src="(https://github-readme-stats.shion.dev/api/top-langs/?username=reksastacode&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="36%" /> <br>
   
 </div>
 
 
-![](https://streak-stats.demolab.com/?user=reksastacode&theme=ocean_dark&hide_border=true) <br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=reksastacode&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
